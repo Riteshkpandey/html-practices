@@ -1,0 +1,8 @@
+.main-header{
+    background-image: url("images/background.jpeg");
+    background-size: cover;
+    background-color: rgba(0,0,0,.6);
+    background-blend-mode: multiply;
+    padding-bottom: 30px;
+    text-decoration-color: white;
+}
